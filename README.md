@@ -7,8 +7,9 @@
 ### CAPTURAS DE EJECUCION DEL TALLER
 SUBIR DATOS DE .CSV A DATA BASE:
 
-<img src="capuras/sql.png">
+<img src="capturas/sql.png">
+
 
 TRAER DATOS DE DATA BASE A CONSOLA:
 
-<img src="capuras/ejecucion.png">
+<img src="capturas/ejecucion.png">
